@@ -9,6 +9,7 @@ h1, h3, p {
 
 .container {
     width: auto;
+    margin-bottom: 10px;
 }
 
 .proUno, .proImg {
